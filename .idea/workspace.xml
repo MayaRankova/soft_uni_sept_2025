@@ -1,30 +1,301 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00c4daf-ad1f-4770-ac0a-41d2993e2f5b" name="Changes" comment="" />
+    <list default="true" id="e00c4daf-ad1f-4770-ac0a-41d2993e2f5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/Excellent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/animal_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/area_of_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/bonus_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/cinema_ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/day_of_week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/f-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/fruit_or_vegetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/fruit_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/godzilla_vs_kong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/greater_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/invalid_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/lunch_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/new_house.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/number_100_to_200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/number_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/nums_1_to_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/password_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/personal_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/print_hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/ski_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/small_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/speed_Info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/sum_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/summer_outfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/time_+_15_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/toy_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/trade_commissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/triangle_of_55_stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/vegetables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/weekend_or_working_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/working_hours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/world_swimming_record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basketball Equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/basketball_equipment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concatenate Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/concatenate_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deposit Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/Deposit Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fish Tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/fish_tank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Food Delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/food_delivery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greeting by Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/greeting_by_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello SoftUni.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/hello_softuni.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pet Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/pet_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects Creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/Projects Creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/01. Excellent Result.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/excellent_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/02. Greater Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/fishing_boat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/03. Even or Odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/jorney.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Concatenate Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Firststeps.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/first_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Greeting by Name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Inches to Centimeters.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/Inches to Centimeters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Projects Creation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Summator-GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/operation_between_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/nums_1_to_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/rectangle_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/stars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/triangle_stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/triangle_stars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radians to Degrees.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/Radians to Degrees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repainting.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/Repainting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplies for School.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/supplies_for_school.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USD to BGN.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/usd_to_bgn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vacation books list.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/vacation_books_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yard Greening.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/yard_greening.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concatinate data.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/concatinate data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inches_to_cm.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/inches_to_cm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nums_1_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/nums_1_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject1/project creation.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MayaRankova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MayaRankova/soft_uni_sept_2025.git&quot;,
+    &quot;accountId&quot;: &quot;8564324c-33e5-4fae-b21f-3e6ad931d77a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="32pDqSmIvjurolll1fIWzMoTntO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01. Sum Seconds.executor": "Run",
+    "Python.02. Greater Number.executor": "Run",
+    "Python.02. Weekend or Working Day.executor": "Run",
+    "Python.03. Animal Type.executor": "Run",
+    "Python.03. Even or Odd.executor": "Run",
+    "Python.03. New House.executor": "Run",
+    "Python.03. Time + 15 Minutes.executor": "Run",
+    "Python.04. Password Guess.executor": "Run",
+    "Python.04. Personal Titles.executor": "Run",
+    "Python.04. Toy Shop.executor": "Run",
+    "Python.05. Godzilla vs. Kong.executor": "Run",
+    "Python.05. Small Shop.executor": "Run",
+    "Python.06. Number in Range.executor": "Run",
+    "Python.06. Speed Info.executor": "Run",
+    "Python.06. World Swimming Record.executor": "Run",
+    "Python.07. Area of Figures (1).executor": "Run",
+    "Python.07. Area of Figures.executor": "Run",
+    "Python.07.Working Hours.executor": "Run",
+    "Python.08. Lunch Break.executor": "Run",
+    "Python.08.Cinema Ticket.executor": "Run",
+    "Python.09. Fruit or Vegetable.executor": "Run",
+    "Python.10. Invalid Number.executor": "Run",
+    "Python.11. Fruit Shop.executor": "Run",
+    "Python.12. Trade Commissions.executor": "Run",
+    "Python.5. Number 100...200.executor": "Run",
+    "Python.Bonus Score.executor": "Run",
+    "Python.Excellent.executor": "Run",
+    "Python.Summer Outfit.executor": "Run",
+    "Python.cinema.executor": "Debug",
+    "Python.day_of_week.executor": "Run",
+    "Python.expression.executor": "Run",
+    "Python.f-strings.executor": "Run",
+    "Python.fishing_boat.executor": "Run",
+    "Python.jorney.executor": "Run",
+    "Python.new_house.executor": "Run",
+    "Python.nums_1_to_20.executor": "Run",
+    "Python.operation_between_numbers.executor": "Run",
+    "Python.printHello.executor": "Run",
+    "Python.shopping.executor": "Run",
+    "Python.ski_trip.executor": "Run",
+    "Python.summer_outfit.executor": "Debug",
+    "Python.triangle_of_55_stars.executor": "Run",
+    "Python.vegetables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\soft_uni_sept_2025\PythonProject1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="07. Area of Figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soft_uni_sept_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonProject/07. Area of Figures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Excellent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soft_uni_sept_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\soft_uni_sept_2025\PythonProject1\Excellent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="area_of_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soft_uni_sept_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\soft_uni_sept_2025\PythonProject1\area_of_figures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="godzilla_vs_kong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soft_uni_sept_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\soft_uni_sept_2025\PythonProject1\godzilla_vs_kong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="speed_Info" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="soft_uni_sept_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Python Sept 2025)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\soft_uni_sept_2025\PythonProject1\speed_Info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.godzilla_vs_kong" />
+        <item itemvalue="Python.area_of_figures" />
+        <item itemvalue="Python.Excellent" />
+        <item itemvalue="Python.07. Area of Figures" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
